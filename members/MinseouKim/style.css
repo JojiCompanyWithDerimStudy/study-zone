@@ -1,0 +1,13 @@
+html {
+  rem {
+    font-size: 18;
+  } /*가변적으로 변경 가능한 속성*/
+
+  h2 {
+    background-color: aqua;
+    border: 2px solid black;
+  }
+  li {
+    font-weight: bold;
+  }
+}
